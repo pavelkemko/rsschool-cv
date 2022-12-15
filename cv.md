@@ -1,4 +1,3 @@
-[RSSchool-CV](<https://pavelkemko.github.io/rsschool-cv/)
 
 
 # Pavel Kemko
@@ -15,8 +14,8 @@
 
 ## Contacts:
 
-  * Email: [pavelkemko@gmail.com](<mailto:pavelkemko@gmail.com)
-  * Github: [pavelkemko] (https://github.com/pavelkemko")
+  * Email: [pavelkemko@gmail.com](mailto:pavelkemko@gmail.com)
+  * Github: [pavelkemko](https://github.com/pavelkemko")
   * Facebook: [PavelKemko](https://www.facebook.com/PavelKemko")
   * Location: Vilnius, Lithuania
 
