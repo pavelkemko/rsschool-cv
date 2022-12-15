@@ -16,7 +16,7 @@
 ## Contacts:
 
   * Email: [pavelkemko@gmail.com](<mailto:pavelkemko@gmail.com)
-  * Github: [pavelkemko] (https://github.com/pavelkemko")
+  * Github: [pavelkemko](https://github.com/pavelkemko")
   * Facebook: [PavelKemko](https://www.facebook.com/PavelKemko")
   * Location: Vilnius, Lithuania
 
