@@ -1,1 +1,4 @@
-[RSSchool-CV](https://pavelkemko.github.io/rsschool-cv/)
+HTML: https://pavelkemko.github.io/rsschool-cv/
+
+
+Markdown: https://pavelkemko.github.io/rsschool-cv/cv
